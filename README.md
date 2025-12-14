@@ -1,5 +1,8 @@
 # TransferPilot
 
+<img width="500" height="986" alt="Screenshot 2025-12-14 at 5 32 29 PM" src="https://github.com/user-attachments/assets/861d920c-99c0-456e-8192-3c4b279e965c" />
+<img width="500" height="989" alt="Screenshot 2025-12-14 at 5 32 59 PM" src="https://github.com/user-attachments/assets/90dcd94c-55e1-4ebb-9144-ade2a04462c1" />
+
 TransferPilot is a **system-level file transfer dashboard** designed to safely move large sets of files and folders to external drives (SSDs, HDDs, USB devices) with full visibility, guard rails, and auditability.
 
 Built with **Tauri (Rust)** + **React** + **Tailwind**, it provides native performance with a modern UI.
